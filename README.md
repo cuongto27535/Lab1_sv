@@ -5,3 +5,5 @@
 ![](https://github.com/cuongto27535/Lab1_sv/blob/main/img/NavBar.png)
 ### Modal
 ![](https://github.com/cuongto27535/Lab1_sv/blob/main/img/Modal.png)
+### NavBar
+![](https://github.com/cuongto27535/Lab1_sv/blob/main/img/NavBar.png)
